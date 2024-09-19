@@ -32,9 +32,10 @@ static/js
 
 ### Cited cources, tutorials or helpful readings
 following discussions during office hours to get a grasp for starting out<br>
-`bar charts -` https://plot.ly/javascript/bar-charts/<br>
+`bar charts` - https://plot.ly/javascript/bar-charts/<br>
 `bubble charts` - https://plot.ly/javascript/bubble-charts/<br>
-`event listener, changes -` https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events<br>
-`dropdown changes for giving option list (need to append my own list through loop) -` https://www.youtube.com/watch?v=_DmdX7e-XRc&ab_channel=CodingShiksha<br>
-`js onclick/onchange -` https://www.w3schools.com/js/js_events.asp<br>
-`forEach info -` https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+`event listener, changes` - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events<br>
+`dropdown changes for giving option list (need to append my own list through loop)` - https://www.youtube.com/watch?v=_DmdX7e-XRc&ab_channel=CodingShiksha<br>
+`js onclick/onchange` - https://www.w3schools.com/js/js_events.asp<br>
+`forEach info` - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach <br>
+`loops` - https://stackoverflow.com/questions/14379274/how-to-iterate-over-a-javascript-object
