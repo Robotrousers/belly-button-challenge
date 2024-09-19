@@ -113,9 +113,13 @@ function init() {
 
     // Use the list of sample names to populate the select options
     // Hint: Inside a loop, you will need to use d3 to append a new
-    // option for each sample name.
+    // option for each sample name. NOTES: need to loop to add the option to the dropdown,
+    // then display text in option as current "sample", and the value set to "sample"
+    // https://d3js.org/d3-selection/modifying#selection_property
     sampleNames.forEach((sample) => {
-      dropdownMenu.append("option").text(sample).property("value", sample);
+      dropdownMenu.append("option")
+      .text(sample)
+      .property("value", sample);
     });
 
     // Get the first sample from the list
