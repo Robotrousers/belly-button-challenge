@@ -38,4 +38,5 @@ following discussions during office hours to get a grasp for starting out<br>
 `dropdown changes for giving option list (need to append my own list through loop)` - https://www.youtube.com/watch?v=_DmdX7e-XRc&ab_channel=CodingShiksha<br>
 `js onclick/onchange` - https://www.w3schools.com/js/js_events.asp<br>
 `forEach info` - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach <br>
-`loops` - https://stackoverflow.com/questions/14379274/how-to-iterate-over-a-javascript-object
+`loops` - https://stackoverflow.com/questions/14379274/how-to-iterate-over-a-javascript-object <br>
+`d3 dom selections` - https://d3js.org/d3-selection/modifying#selection_property
